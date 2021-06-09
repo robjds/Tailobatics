@@ -1,4 +1,5 @@
 %% Optimisation of motion pattern for Tail flip in robot
+%% RSiddall 2021, optimisation process adapted from: https://uk.mathworks.com/videos/matlab-and-simulink-robotics-arena-walking-robots-part-3-trajectory-optimization-1506440520726.html
 clear
 close all
 run TailobaticVariables
