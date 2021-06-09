@@ -1,9 +1,8 @@
 # Tailobatics
 
-Code accompaniment to 'Mechanisms for mid-air reorientation using tail rotation in gliding geckos' by Siddall, Byrnes, Full and Jusufi, accepted for publication in Integrative and Comparative Biology. 
+Code accompaniment to **Mechanisms for mid-air reorientation using tail rotation in gliding geckos** by Siddall, Byrnes, Full and Jusufi, accepted for publication in Integrative and Comparative Biology. 
 
 Permanent DOI for code repository: https://dx.doi.org/10.17617/3.6k
-Paper DOI: tbd
 
 A multibody simulation of inertial reorientation with a tail, including trajectory optimization. Used to investigate the arboreal acrobatics of geckos. Implemented in Matlab using Simscape Multibody.
 
